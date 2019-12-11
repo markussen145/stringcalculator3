@@ -12,6 +12,10 @@ import XCTest
 class stringcalculator3Tests: XCTestCase {
 
     override func setUp() {
+        var validUsername = "admin"
+        var validPassword = "admin"
+        var invalidUsername = "invitee"
+        var invalidPassword = "1234"
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
 
