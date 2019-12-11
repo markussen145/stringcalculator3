@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode11.3
-xcode_project: StringCalculator3.xcodeproj
-xcode_scheme: StringCalculator3
+xcode_project: stringcalculator3.xcodeproj
+xcode_scheme: stringcalculator3
 xcode_destination: platform=iOS Simulator,name=iPhone 11
